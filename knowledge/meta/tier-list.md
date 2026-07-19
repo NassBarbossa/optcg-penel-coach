@@ -1,28 +1,41 @@
 # Tier list — méta actuelle
 
 > Alimenté exclusivement par les datas du joueur. Le coach ne complète pas ce fichier de lui-même.
-> Source : OP16 update du coach pro (voir `op16-enel-update.md`).
+> Sources : tier list japonaise PROS du 2026-06-09 (`media/op16-tierlist-jp-pros.jpeg`, superviseurs Wf / Joker / Kaa / Luka, banlist du 2026-05-01 appliquée) + OP16 update du coach pro (`op16-enel-update.md`).
 
-**Format / set actuel** : OP16
+**Format / set actuel** : OP16 (BP-16 « 決戦の刻 »), format standard
 **Dernière mise à jour** : 2026-07-19
 
-## Tier 1
+## Tier list japonaise PROS (draft de référence)
 
-*(vision du coach pro, qui rejette le « Tier 1.5 » : il n'y a que Tier 1 et Tier 2)*
+### S (Tier 1)
+- **紫エネル — Enel violet (OP15-058)** ← le deck du joueur
+- **黒黄ティーチ — BY Teach** (noir/jaune, nouveau OP16)
+- **青黄ナミ — UY Nami** (bleu/jaune, OP11) ↑ en hausse
 
-- **Enel** (le deck du joueur) — reste Tier 1 malgré l'arrivée de BY Teach ; popularité en baisse probable (attrait de la nouveauté OP16)
-- **BY Teach** — nouveau deck OP16, contre direct d'Enel
-- **UY Nami** — counter jaune, mauvais matchup pour Enel
-- **UG Luffy** — un des meilleurs contenders de la méta
-- **PY Rosinante** — un des meilleurs contenders de la méta
+### A+ (Tier 1.5)
+- **紫黄ロシナンテ — PY Rosinante** (violet/jaune, OP12)
+- **黒ヤマト — Yamato noir** (OP16) ↓ en baisse
+- **緑ミホーク — Mihawk vert**
+- **赤青エース — Ace rouge/bleu**
+- **赤青ルーシー — Lucy rouge/bleu**
+- **青緑ルフィ — UG Luffy** (bleu/vert, OP16)
+- **空島ルフィ — Luffy Sky Island**
 
-## Tier 2
+### A (Tier 2)
+Crocodile noir ↓, Doflamingo violet, Luffy rouge/vert, Hancock bleu/jaune, Sengoku violet, Luffy vert/violet, Imu noir, Buggy bleu, Shanks rouge ↑
 
-- **Yamato** — un des rares decks Tier 2 capables de tenir dans cette méta
-- *(le reste du format : peu de play attendu dans les semaines à venir)*
+### B+ (Tier 2.5)
+Bonney vert, Koby rouge/noir, Bonney rouge/jaune, Zoro vert, **Enel jaune** (≠ notre Enel violet), Moria noir/jaune ↓, Kalgara jaune, Luffy bleu/violet ↑, Sabo rouge/noir
+
+## Corrections du coach pro sur ce draft
+
+- **UG Luffy et PY Rosinante → Tier S** (il ne croit pas au « Tier 1.5 » : il n'y a que Tier 1 et Tier 2).
+- Sa méta effective à 6 decks : **Enel, BY Teach, UY Nami, UG Luffy, PY Rosinante** (Tier 1) + **Yamato** (seul Tier 2 capable de tenir).
+- Le reste du field : peu de play attendu.
 
 ## Notes de méta
 
-- Draft initial de joueurs japonais : méta très proche d'OP15 + BY Teach en nouveau contender.
-- Scénario de fin de méta possible : si BY Teach devient populaire mais perd contre UG Luffy, BY Teach recule → porte ouverte à un retour d'Enel parmi les meilleurs picks.
-- Les listes UY Nami évoluent vers plus de Triggers / package Sky Island (pour survivre à BY Teach) → matchup potentiellement un peu meilleur pour Enel.
+- Enel reste Tier 1 malgré BY Teach ; popularité en baisse probable (attrait nouveauté OP16).
+- Scénario fin de méta : si BY Teach populaire mais battu par UG Luffy → recul de BY Teach → retour d'Enel parmi les meilleurs picks.
+- Les listes UY Nami évoluent vers plus de Triggers / package Sky Island (pour survivre à BY Teach) → matchup potentiellement meilleur pour Enel.

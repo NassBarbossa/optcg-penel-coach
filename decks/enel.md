@@ -1,5 +1,6 @@
-# Enel (jaune) — deck principal du joueur
+# Enel violet (OP15-058) — deck principal du joueur
 
+**Leader** : 紫エネル / Enel violet, OP15-058
 **Format/set** : OP16
 **Statut** : liste à venir — le coach pro annonce une nouvelle build OP16 « focused on winning the yellow matchups while not changing too much from the OP15 approach ».
 
