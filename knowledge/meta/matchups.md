@@ -3,9 +3,9 @@
 > Alimenté par les datas du joueur. Un bloc par matchup, du point de vue d'Enel violet (OP15-058).
 > Sources : spread sim (`media/op16-enel-matchup-spread.png`), OP16 update (`op16-enel-update.md`), **plans détaillés dans `op16-matchup-bible.md`**.
 
-## Spread Enel (OP15-058) — données sim
+## Spread Enel (OP15-058) — stats PERSO du joueur (tracker Hermes)
 
-Stats globales du leader sur le sim : **51,7 % de winrate** (5724 W / 5353 L, durée moyenne ~675 s). Winrate par matchup selon qui commence :
+Stats personnelles du joueur sur le sim : **51,7 % de winrate** (5724 W / 5353 L, ~11 min/partie). Échantillon massif → ces chiffres sont du signal, pas du bruit. Winrate par matchup selon qui commence :
 
 | Matchup | 1st | 2nd | Guide : difficulté / start préféré |
 |---|---|---|---|
