@@ -39,6 +39,18 @@
 - **Holly (« the dog ») exclu** : utile surtout contre Black Yamato (peu joué aux derniers Regionals/Treasure Cups) et pour la consistance contre UY Nami, mais dégrade les matchups BY Teach et probablement PY Rosinante. Choix dépendant du field attendu et du playstyle ; le coach préfère l'approche contrôle, notamment pour rendre BY Teach plus gérable.
 - **Identité du deck** : deck contrôle. « Focus on the value side of the deck », ajouter de l'agression uniquement dans les matchups qui le demandent. Gamma Knife + le package violet générique = une réponse à presque toutes les menaces du jeu.
 
+## Textes des cartes clés (lus sur les cheat sheets)
+
+- **6c Enel (OP15-118, 8000, Special)** : si ≤6 DON!! sur notre field, ne peut pas être retiré du field par les effets adverses et gagne +2000 power. On Play DON!!−1 : regarder 5 cartes du dessus, en ajouter 1 en main, reste en dessous, puis trash 1 carte de la main.
+- **Vinsmoke Reiju (OP12-063, 4c, 5000, Blocker)** : si 4+ Événements dans notre trash, gagne +2000 power et +5 coût (= intouchable par les removals basés sur le coût).
+- **Ohm (OP15-061, 1c, 2000, counter +1000)** : On Play DON!!−1 : pioche 1. When Attacking, si ≤6 DON!! : −1000 power à un personnage adverse.
+- **Shura (OP15-067, 1c, 2000, counter +1000)** : Rush si ≤6 DON!!. On Play DON!!−1 : pioche 1.
+- **Satori (OP15-066, 1c, 2000, counter +1000)** : On Play DON!!−1 : pioche 1. When Attacking, si ≤6 DON!! : regarder 2 cartes du dessus et les replacer dessus/dessous.
+- **Charlotte Pudding (OP12-071, 1c, 2000, counter +1000)** : On Play : regarder 4 cartes du dessus, révéler jusqu'à 1 [Sanji] ou Événement et l'ajouter en main.
+- **Mamaragan (OP15-078, Événement 0c)** : Main DON!!−2 : pioche 1 puis rest jusqu'à 1 personnage adverse de 5000 power ou moins. Counter : +1000, et si ≤6 DON!! pioche 1.
+
+Le fil rouge du deck : presque tout le kit demande **≤6 DON!! sur notre field** — le deck veut rester bas en DON!! (dépenser, minus), ce qui alimente à la fois les effets et le DON!! denial (cf. matchup Rosinante).
+
 ## Plan de jeu
 
 - **Posture par défaut** : value/contrôle ; agression ciblée selon matchup.
