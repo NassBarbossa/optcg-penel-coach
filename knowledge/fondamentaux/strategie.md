@@ -19,6 +19,7 @@ Quatre ressources à convertir les unes dans les autres au meilleur taux :
 - **Life comme ressource** — quand encaisser (gagner une carte, garder ses counters) vs quand défendre (protéger la zone de danger, refuser un Trigger… ou le chercher).
 - **Économie des counters** — combien de power de counter la main contient, contre quoi le dépenser, et ce que l'adversaire peut représenter au prochain tour.
 - **Trade vs face** — attaquer les Personnages reposés (contrôler le board) vs attaquer le Leader (courser la Life). Dépend du rôle dans le matchup.
+- **Économie d'attaque** (coaching ch. 7) — spécificité OPTCG : chaque dégât au Leader adverse DONNE une carte à l'adversaire (et peut-être un Trigger). Une attaque n'est jamais gratuite : avant chaque attaque non nécessaire, se demander ce qu'elle achète vs ce qu'elle offre à l'adversaire vu son état de ressources. Être le beatdown ne veut pas dire attaquer avec tout, chaque tour.
 - **Rôle dans le matchup** — qui est le beatdown, qui est le contrôle ? Se tromper de rôle est une cause d'erreurs en chaîne (« Who's the Beatdown? »).
 - **Lignes de jeu** — à chaque tour clé, énumérer 2-3 séquences possibles avant de jouer, comparer, choisir. L'ordre des actions (sequencing) change souvent le résultat à cartes égales.
 
@@ -36,6 +37,7 @@ Utilisées pour taguer les erreurs dans `parties/` et `analyses/` (coaching ch. 
 | `mulligan` | Mauvaise décision keep/mulligan |
 | `lethal` | Létal raté ou mal calculé (le sien ou celui de l'adversaire) |
 | `role` | Mauvaise lecture du rôle dans le matchup |
+| `attack-economy` | Attaque réflexe qui nourrit l'adversaire (carte/Trigger offerts) sans gain suffisant |
 | `info` | Décision correcte mais information disponible non collectée |
 | `regle` | Erreur de règle ou d'interaction |
 
