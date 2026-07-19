@@ -1,0 +1,27 @@
+# Chapter 3: Building a Feedback Loop That Actually Tells You the Truth
+
+## 3.1 Why "just playing more" stops working
+
+If you have read the first two chapters, the problem with "just play more games" as an improvement strategy should already be clear: more games gives you more data, but if your interpretation of that data is systematically distorted by outcome bias, confirmation bias, and self-serving attribution, more biased data does not produce more accurate self-knowledge. It just produces a louder, more confident version of the same wrong conclusions. This is why you meet players with hundreds of tournament rounds under their belt who have genuinely not improved in two years — they have been feeding a broken feedback loop instead of building a working one.
+
+A working feedback loop has three components: accurate capture of what happened, honest analysis separate from the emotional moment of the result, and a mechanism that forces you to act differently based on what you found. Miss any one of the three and the loop breaks.
+
+## 3.2 Capture: write it down before your brain edits the memory
+
+The single highest-leverage habit a competitive card game player can build is a simple match log, written immediately after a game, before discussing it with anyone or letting the emotional reaction to winning or losing reshape the memory. This does not need to be elaborate. For each match: opponent's archetype, your deck and any notable build choices, the result, and — critically — one or two specific decision points you remember being genuinely uncertain about, written in enough detail that you could reconstruct the situation later.
+
+The "before discussing it with anyone" part matters more than people expect. The moment you start explaining a loss to a friend at the venue, you are already constructing a narrative, and narratives tend to flatter you. Writing the raw facts down first, then talking about it, preserves a cleaner record. Poker players who take this seriously literally keep hand histories for this exact reason — the game software does it automatically for them, which is part of why poker as a community got so empirically rigorous so quickly once online play with built-in hand history became standard. Card game players generally have to do this manually, which is exactly why so few of them do it, and exactly why doing it is a real edge.
+
+## 3.3 Analysis: review on a delay, and review the process not the result
+
+Review your match log a day or more after the event, not in the parking lot immediately after a loss. The emotional charge of a fresh loss actively impairs the kind of cool, structural analysis you need — this is not a willpower problem, it is just how human emotional regulation and cognitive performance interact. Chess players who do serious post-game analysis almost universally do it after stepping away, not in the heat of the moment, for the same reason.
+
+When you do review, the central discipline is asking about process, not outcome: given exactly the information you had at each decision point, was the decision good, regardless of how it turned out? This is where it helps enormously to talk through your closest calls with another strong player, ideally one who plays a different archetype or even a different game, because they will not share your specific blind spots. A Yu-Gi-Oh player who has internalized rigorous card-advantage theory can sometimes spot a structural leak in a One Piece player's sequencing that the One Piece player's own community hasn't articulated yet, simply because the underlying concept — not spending resources you didn't need to spend — transfers across games even when the specific terminology doesn't.
+
+## 3.4 Tagging your leaks so patterns become visible
+
+A single bad decision is a data point. The same category of bad decision showing up nine times across two months is a leak, and leaks are what you should actually be hunting for, because fixing one leak fixes every future game that would have hit it, while fixing one isolated mistake fixes nothing beyond that single game. This means your match log is more useful if you tag decisions by category — sequencing error, overextension, misjudging a counter, missing a resource calculation, mulligan/keep decision, and so on — rather than just narrating what happened. After a month or two of honest logging, almost every player finds that their losses cluster heavily around two or three repeated categories, not a random scatter of unrelated mistakes. That clustering is the single most actionable piece of information you can extract from your own play, and it is invisible if you are not capturing data in a structured way.
+
+## 3.5 Closing the loop: forcing yourself to act on what you found
+
+A feedback loop that produces insight but doesn't change behavior is not actually a loop, it is a journal. The final, and most commonly skipped, step is translating an identified leak into a specific, narrow, testable change to your play — not a vague resolution like "be more careful," but something concrete like "when ahead on board against an aggressive deck, default to the conservative line unless I can calculate the aggressive line is strictly better," then deliberately watching your next ten relevant games for whether you actually executed that change. This is, not coincidentally, exactly the structure of deliberate practice described in Chapter 1: a specific target, just past your current default behavior, with a feedback mechanism attached.
