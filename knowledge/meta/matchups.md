@@ -3,9 +3,9 @@
 > Alimenté par les datas du joueur. Un bloc par matchup, du point de vue d'Enel violet (OP15-058).
 > Sources : spread sim (`media/op16-enel-matchup-spread.png`), OP16 update (`op16-enel-update.md`), **plans détaillés dans `op16-matchup-bible.md`**.
 
-## Spread Enel (OP15-058) — stats PERSO du joueur (tracker Hermes)
+## Spread Enel (OP15-058) — stats du COACH PRO (fournies dans le guide acheté)
 
-Stats personnelles du joueur sur le sim : **51,7 % de winrate** (5724 W / 5353 L, ~11 min/partie). Échantillon massif → ces chiffres sont du signal, pas du bruit. Winrate par matchup selon qui commence :
+⚠️ Ce ne sont PAS les stats du joueur — aucune partie du joueur n'a encore été loggée. Stats Hermes du coach pro : **51,7 % de winrate** (5724 W / 5353 L, ~11 min/partie). Winrate par matchup selon qui commence :
 
 | Matchup | 1st | 2nd | Guide : difficulté / start préféré |
 |---|---|---|---|
@@ -19,7 +19,7 @@ Stats personnelles du joueur sur le sim : **51,7 % de winrate** (5724 W / 5353 L
 Lectures utiles :
 - **Teach est mauvais symétriquement** (~31 % des deux côtés — structurel, le dé ne change rien). **Nami est surtout mauvais en 2e** (40 % → 22 %).
 - Le mirror est fortement dé-dépendant (60/40).
-- ⚠️ **Rosinante : le guide préfère commencer 2e** (pour le deny de DON!!) alors que la data sim globale favorise le 1st (70 % vs 62 %). La ligne experte du coach diverge de la population du sim — les deux peuvent être vrais (le field moyen ne joue pas le DON!! denial). À trancher avec l'expérience loggée.
+- ⚠️ **Rosinante : le guide préfère commencer 2e** (pour le deny de DON!!) alors que les propres stats du coach montrent 70 % en 1st vs 62 % en 2nd. Pas forcément contradictoire (le 1st peut être bon « tout seul » et le 2nd exiger la ligne de denial pour tenir), mais c'est une question à lui poser.
 
 ## Enel vs UG Luffy — Easy, start First
 
