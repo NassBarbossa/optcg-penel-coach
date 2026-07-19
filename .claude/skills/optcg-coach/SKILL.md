@@ -20,11 +20,12 @@ Entrée : screenshots (dans `parties/media/` ou collés), récit, ou log `partie
 
 1. **Reconstruire la partie** : matchup, qui commence, mulligan, tournants. Poser des questions si l'état du board aux moments clés est ambigu (DON!!, Life, main) plutôt que deviner.
 2. **Évaluer chaque décision clé au moment T** — avec l'information disponible ET incertaine à cet instant, jamais avec le résultat (outcome bias, ch. 2). Dire explicitement quand une décision perdante était correcte, et quand une décision gagnante était mauvaise.
-3. **Proposer les lignes alternatives** aux 2-3 tournants : séquences concrètes, avec le raisonnement (tempo, counters, rôle, curve DON!!).
-4. **Partitionner** : part de décision vs part de variance dans le résultat (illusion of control, ch. 2). Une défaite sur un 1-out adverse n'est pas un leak.
-5. **Taguer** chaque erreur avec les catégories de `strategie.md`.
-6. **Cibler UNE faiblesse prioritaire** — la plus fréquente ou la plus coûteuse, pas la plus récente — et la traduire en **changement concret et testable** (ch. 3.5) : « sur les 10 prochaines parties, quand X, faire Y ». Pas de « fais plus attention ».
-7. **Sauvegarder** dans `analyses/AAAA-MM-JJ-<mon-deck>-vs-<deck-adverse>.md` :
+3. **Vérifier la lecture du rôle** (ch. 6) : dans ce matchup précis, qui était le beatdown ? Le joueur a-t-il joué son rôle réel ou la réputation de son deck ? Le rôle a-t-il basculé en cours de partie sans que le plan change ?
+4. **Proposer les lignes alternatives** aux 2-3 tournants : séquences concrètes, avec le raisonnement (tempo, counters, rôle, curve DON!!).
+5. **Partitionner** : part de décision vs part de variance dans le résultat (illusion of control, ch. 2). Une défaite sur un 1-out adverse n'est pas un leak — la classer « expected variance » (ch. 4.3).
+6. **Taguer** chaque erreur avec les catégories de `strategie.md`.
+7. **Cibler UNE faiblesse prioritaire** — la plus fréquente ou la plus coûteuse, pas la plus récente — et la traduire en **changement concret et testable** (ch. 3.5) : « sur les 10 prochaines parties, quand X, faire Y ». Pas de « fais plus attention ». Si pertinent, proposer aussi un **drill ciblé** (ch. 5.1) : rejouer la situation précise qui pose problème en variant les conditions, plutôt que « jouer plus de parties ».
+8. **Sauvegarder** dans `analyses/AAAA-MM-JJ-<mon-deck>-vs-<deck-adverse>.md` :
 
 ```markdown
 # Analyse AAAA-MM-JJ — [matchup] (W/L)
@@ -42,7 +43,8 @@ Entrée : screenshots (dans `parties/media/` ou collés), récit, ou log `partie
 2. **Clusteriser les tags** : quelles 2-3 catégories de leaks reviennent ? Lesquelles ont disparu depuis les premiers logs ? C'est ça, la mesure de progression — pas le W-L.
 3. **Vérifier les changements testables** passés : ont-ils été exécutés dans les parties suivantes ? Un leak identifié mais non travaillé est un journal, pas une boucle (ch. 3.5).
 4. **Situer le stade** du joueur (ch. 1.3 : mécanique → patterns → raisonnement conscient → adaptatif) sur la base des types d'erreurs, et adapter les recommandations au stade.
-5. **Recadrer si nécessaire** : si les résultats stagnent mais que des catégories d'erreurs disparaissent, le dire explicitement — plateau de résultats ≠ plateau de skill (ch. 1.2). À l'inverse, ne pas laisser un bon W-L masquer des décisions médiocres.
+5. **Détecter le tilt dans les datas** (ch. 4) : erreurs qui se dégradent au fil d'une même session, parties enchaînées juste après une défaite frustrante, décisions plus rapides et plus agressives que d'habitude. Si un pattern de tilt apparaît, proposer une règle simple pré-engagée (pause entre les parties, signal d'alerte personnel) plutôt qu'un conseil vague.
+6. **Recadrer si nécessaire** : si les résultats stagnent mais que des catégories d'erreurs disparaissent, le dire explicitement — plateau de résultats ≠ plateau de skill (ch. 1.2). À l'inverse, ne pas laisser un bon W-L masquer des décisions médiocres.
 
 ## Mode 3 — Review de deck
 
