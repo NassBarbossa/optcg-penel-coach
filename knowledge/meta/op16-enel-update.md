@@ -38,6 +38,38 @@ Even if we now have to face a new bad matchup in BY Teach, which was not present
 
 For this reason, the position of Enel will depend a lot on how the meta shifts and on which decks become the most popular. If the format moves in the right direction, Enel can easily come back as one of the best picks.
 
-## À venir (annoncé par le coach)
+## 2. The new decklist changes
 
-- Chapitre suivant : la nouvelle build Enel OP16, focalisée sur les matchups jaunes, proche de l'approche OP15.
+For the new decklist that we are proposing today, nothing has really changed too much from the OP15 meta. I think the most important thing is that we adapt our decklist for the new bad matchups, especially BY Teach, so it becomes really important to have access to multiple copies of Gamma Knife.
+
+I think there are very few things we actually need to change from the previous meta, because most of the new matchups we are going to face can basically be solved thanks to Gamma Knife. For example, increasing the number of Senior Pink is, in my opinion, one of the best things you can do to improve those matchups.
+
+I also received a lot of questions about Holly and whether we should include it in the decklist, but I don't think it is that needed, to be honest. Probably the best matchup where Holly could be very useful is Black Yamato, but after my experience at the latest Regionals and Treasure Cups, I didn't see that many Black Yamato players, to be honest. For this reason, I would not include the dog in the decklist for now.
+
+I think this decklist is very good into most of the popular decks in the current meta, such as UG Luffy, the mirror match, BY Teach, and UY Nami. If you want to increase your consistency against UY Nami, you can consider including Holly as well, but I think that would make your matchup against BY Teach worse, and probably the PY Rosinante matchup as well.
+
+So it really depends on the field you are expecting in the current meta, and also on your playstyle. I don't think the dog is bad, but to be honest, I am not really a fan of it myself. I prefer going with a more controlling approach, especially to make my BY Teach matchup more manageable.
+
+### New decklist for OP16
+
+*(liste extraite dans `decks/enel.md`, image dans `decks/media/op16-enel-decklist.png`)*
+
+Talking about the decklist, I think what we already covered is good enough. Everything you learned from OP15 can basically be translated to the new decklist. The general game plan of the deck stays the same, and there is not really a big change in what you want to achieve throughout the game.
+
+You should always focus on the value side of the deck, and eventually add a lot more aggression in the matchups where you actually need to do that.
+
+Looking at the new matchups, I don't think there is anything too crazy that we need to cover. I think the most complex one is going to be PY Rosinante, because it is purely based on DON!! management, which is something we did not have to focus on as much in the previous sets.
+
+Having said that, I think if you were comfortable with the deck in OP15, you will still find it insanely good in the current format. Of course, as we already mentioned, the new yellow decks are a problem, but Enel still positions itself as one of the best decks in the meta.
+
+Honestly, I think Bandai probably did not expect this deck to become such a strong control deck. Having access to cards like Gamma Knife, together with the generic purple package that basically gives you an answer to every threat in the game, is good enough to make this deck still one of the best picks.
+
+As we already saw in the recent Regionals, the deck is insanely strong, with a big representation in top cuts, and it will probably remain one of the best contenders until the end of the OP16 meta.
+
+### Conclusion
+
+I will try to update the guide as much as possible as the meta develops, even though I don't think we will see any big surprises in the upcoming tournaments.
+
+This meta will not be very long either, because we will basically have only one month of OP16 before the new STs come out. However, I believe we might still see some small changes depending on the field.
+
+If the field stays the same as it is right now, with a big representation of yellow decks, Enel, and UG Luffy, I think this decklist will probably be one of the best choices.

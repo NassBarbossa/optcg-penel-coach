@@ -31,6 +31,7 @@ Lectures utiles pour le coach :
 
 - **Verdict** : mauvais matchup (counter jaune), présent depuis OP15. 40,2 % en commençant, 21,9 % en 2e.
 - **Tendance** : les listes Nami ajoutent des Triggers / package Sky Island pour survivre à BY Teach → le matchup pourrait devenir un peu meilleur pour Enel.
+- **Option de build** : Holly améliore la consistance dans ce matchup, mais dégrade BY Teach et probablement Rosinante — non retenu dans la build du coach.
 - **Plan de jeu** : *(à venir)*
 - **Bilan perso** : —
 
@@ -44,6 +45,7 @@ Lectures utiles pour le coach :
 ## Enel vs PY Rosinante
 
 - **Verdict** : très bon matchup pour Enel (70,1 % / 62,1 %). PY Rosinante est un des meilleurs decks du format.
+- **Complexité** : le matchup le plus complexe de la méta selon le coach — « purely based on DON!! management », dimension peu sollicitée dans les sets précédents. Favorable mais technique.
 - **Plan de jeu** : *(à venir)*
 - **Bilan perso** : —
 
