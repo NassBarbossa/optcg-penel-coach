@@ -1,7 +1,7 @@
 # Enel violet (OP15-058) — deck principal du joueur
 
 **Leader** : 紫エネル / Enel violet, OP15-058 (Sky Island), 5 Life
-**Format/set** : OP16
+**Format/set** : liste construite en OP16 ; méta actuelle OP17/OP18 (voir « Veille du pro » plus bas)
 **Source** : build OP16 du coach pro (chapitre 2 de l'update, image `media/op16-enel-decklist.png`), intégrée le 2026-07-19.
 
 ## Liste (50 cartes)
@@ -55,17 +55,41 @@ Le fil rouge du deck : presque tout le kit demande **≤6 DON!! sur notre field*
 
 - **Posture par défaut** : value/contrôle ; agression ciblée selon matchup.
 - **Matchup le plus complexe de la méta** : PY Rosinante — « purely based on DON!! management », une dimension peu sollicitée dans les sets précédents.
-- *(plans détaillés par matchup : à venir avec les prochains chapitres)*
+- Méta OP16 : `knowledge/meta/op16-matchup-bible.md`.
+- **Méta OP17/OP18 (actuelle)** : `knowledge/meta/op18-matchups-pro.md` (Gunko, Rocks, Buggy, RP et RG Luffy, Law/Bonney, Franky, Sabo, mirror…).
 
 ## Mulligan
 
-*(à remplir — pas encore couvert par l'abonnement)*
+Source : lives d'Aaaaaron des 22 et 25/11/2026 (pas encore validé par les parties du joueur).
+
+- **Garder** : une vraie action aux tours 1 et 2 (plusieurs 1-drops, idéalement Pudding en premier joueur) ET une vraie menace (6c Enel). « Trois 1-drops, ça me paraît bien. »
+- **Garder une main bancale** si Satori et des 1-drops qui piochent permettent de creuser.
+- **Renvoyer** : Mamaragan comme seule bonne carte ; Shura + Varie sans autre 1-drop ; 1-drop + Reiju sans 6c Enel (il garde la même main avec Enel à la place de Reiju).
+- **Contre Gunko** : chercher le 6c Enel, ses défaites viennent de son absence au bon tour.
+- **En second** : il lui faut Satori puis Pudding.
 
 ## Contexte méta
 
 - Voir `knowledge/meta/` : Tier 1, très représenté en top cut aux derniers Regionals.
 - Méta OP16 courte : ~1 mois avant les nouveaux STs. Peu de surprises attendues ; si le field reste jaune + Enel + UG Luffy, cette liste est un des meilleurs choix.
 
+## Veille du pro : la liste en novembre 2026 (OP17/OP18)
+
+Ce que le joueur pro teste, **à comparer avec la liste que le joueur jouera réellement** (non connue du coach à ce jour) :
+
+| Carte | Notre liste (OP16) | Pro, 22/11 | Pro, 25/11 | Conclusion du pro |
+|---|---|---|---|---|
+| Killingham (nouvelle) | 0 | 3 | remplace les Reiju | « Carte de matchup » : très forte contre mirror, Law/Bonney, Big Mom, Sabo ; inutile contre RG/RP Luffy ; neutralisée par Alvida (Buggy) et Gloriosa (Rocks). 3 copies « ça va » |
+| Law [nom incertain] (nouvelle) | 0 | présent | +1 copie | Sa meilleure carte : prend deux cartes de la main adverse si elle est assez grosse, sinon reste une menace |
+| Senor Pink | 3 | 3, envisage 1 | réduit | « Un peu brique » ; moins utile quand on a Reiju et Law |
+| Reiju | 4 | présente | 0 (test) | Coupée pour tester Holly, puis regrettée : manque de Blockers, il préférerait Reiju à Holly. Point faible : Sommers (Gunko) la tue |
+| Holly (dog) | 0 | 0 | présent | **Rejeté** : inutile s'il n'arrive pas au tour 2, meilleur en premier |
+| Varie | 2 | veut 3 | ? | 3e copie pour Rocks (Gloriosa renvoie Killingham) |
+| Gamma Knife | 3 | présente | présente | Importante contre Buggy, Rocks, Law/Bonney ; faible contre Gunko et RP Luffy |
+
+Détails et horodatages : `knowledge/videos/*/conseils.md`. Pas de liste complète à 50 cartes donnée dans les vidéos.
+
 ## Historique des versions
 
 - 2026-07-19 : build OP16 initiale du coach (adaptation anti-jaune de la liste OP15 : +Senior Pink, Gamma Knife ×3, pas de Holly).
+- 2026-11-26 : ajout du mulligan et de la veille du pro (lives Aaaaaron des 22 et 25/11, méta OP17/OP18). La liste du joueur n'est pas modifiée.

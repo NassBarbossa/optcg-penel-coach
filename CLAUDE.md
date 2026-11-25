@@ -8,6 +8,7 @@ Coach personnel d'analyse de gameplay One Piece TCG (parties jouées sur simulat
 - `knowledge/regles/` — règles du jeu. Pré-rempli avec les généralités, enrichi par les datas du joueur.
 - `knowledge/fondamentaux/` — concepts stratégiques que le coach applique dans ses analyses.
 - `knowledge/meta/` — tier list et matchups, alimentés exclusivement par les datas du joueur.
+- `knowledge/videos/` — veille du pro : un dossier par vidéo (transcript brut + `conseils.md` horodaté). Synthèse par matchup dans `knowledge/meta/op18-matchups-pro.md`.
 - `decks/` — un fichier par deck (voir `decks/TEMPLATE.md`).
 - `parties/` — logs de parties (voir `parties/TEMPLATE.md`), screenshots dans `parties/media/`.
 - `analyses/` — rapports d'analyse datés produits par le coach. C'est l'historique de progression.

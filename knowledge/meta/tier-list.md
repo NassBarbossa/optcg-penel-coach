@@ -4,7 +4,19 @@
 > Sources : tier list japonaise PROS du 2026-06-09 (`media/op16-tierlist-jp-pros.jpeg`, superviseurs Wf / Joker / Kaa / Luka, banlist du 2026-05-01 appliquée) + OP16 update du coach pro (`op16-enel-update.md`).
 
 **Format / set actuel** : OP16 (BP-16 « 決戦の刻 »), format standard
-**Dernière mise à jour** : 2026-07-19
+**Dernière mise à jour** : 2026-11-26 (méta OP17/OP18 ajoutée ; la suite du fichier date d'OP16)
+
+## Méta OP17/OP18 (novembre 2026)
+
+Source : lives ladder d'Aaaaaron des 22 et 25/11/2026 (vidéos fournies par le joueur). Détail par matchup : `op18-matchups-pro.md`.
+
+- Son classement au 22/11 : **Rocks, Gunko, Buggy** en top 3, **Enel 4e ou 5e**, RG Luffy encore haut malgré sa sanction.
+- Decks rencontrés sur 37 parties : RP Luffy (« bizarrement populaire »), Gunko, deck Law/Bonney, Franky (Water Seven), RG Luffy, Rocks, Buggy, Sabo, mirror Enel, Luffy Ace, Water Seven Luffy, Sugar/Doflamingo, Big Mom.
+- Aucun BY Teach, UY Nami, PY Rosinante ni Yamato : la tier list OP16 ci-dessous est historique.
+
+---
+
+# Historique : méta OP16
 
 ## Tier list japonaise PROS (draft de référence)
 

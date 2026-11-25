@@ -1,5 +1,7 @@
 # Matchups
 
+> **Méta OP17/OP18 (novembre 2026)** : les matchups actuels (Gunko, Rocks, Buggy, RP Luffy, Law/Bonney…) sont dans `op18-matchups-pro.md`. Ce fichier couvre la méta OP16 et les bilans perso.
+
 > Alimenté par les datas du joueur. Un bloc par matchup, du point de vue d'Enel violet (OP15-058).
 > Sources : spread sim (`media/op16-enel-matchup-spread.png`), OP16 update (`op16-enel-update.md`), **plans détaillés dans `op16-matchup-bible.md`**.
 
@@ -73,6 +75,23 @@ Lectures utiles :
 ## Enel vs Enel (mirror)
 
 - **Verdict** : 60,2 % en 1st, 39,8 % en 2nd — le dé pèse lourd. Pas encore couvert par la bible.
+- **Bilan perso** : —
+
+## Enel vs RG Luffy (OP13-001)
+
+⚠️ **Source : recherche web (pas le guide payant)** — à confirmer/affiner avec tes propres games. Pas de winrate chiffré trouvé, donc pas de verdict facile/dur pour l'instant.
+
+- **Le deck** : Monkey.D.Luffy OP13-001 (Red/Green, 5000 power, 4 Life, "Carrying On His Will"), archétype midrange/wall défensif Straw Hat Crew — vieux leader (sorti OP13) toujours joué en OP16.
+- **Leader effect** : sur notre attaque, si ≤5 DON!! actifs chez eux, ils peuvent rest des DON!! pour donner +2000 power (par DON!! rest) à leur Leader ou à un perso Straw Hat Crew, pour ce combat — jusqu'à +10 000 en théorique max.
+- **Leur plan contre nous** : contrôle du board plutôt que race, DON!! banking (garder 3-5 DON!! actifs) plutôt que tout dépenser offensivement, cibler notre 6c Enel en priorité.
+- **Cartes clés à surveiller** :
+  - **Trafalgar Law (OP13-031)** : échange un petit perso early contre un perso coût 5 — cible typique : leur Sanji (OP13-027, 5c, met du DON!! actif).
+  - **Luffy 6c (OP13-118)** : active jusqu'à 4 DON!! On Play.
+  - **Shanks 10c (OP13-028)** : active ses 10 DON!!, 12000 power "gratuit" — leur plan de contrôle tardif si leurs persos se font trim en boucle par nos removals.
+  - **Electrical Luna (OP08-036, Event vert, 3c)** : Main, empêche un de NOS persos reposés de coût ≤7 de redevenir actif à notre prochain Refresh — **cible directement notre 6c Enel** si on le laisse reposé sans protection (Reiju). Trigger : rest 1 de nos persos.
+  - **Holly** les inquiète (cohérent avec nos propres notes de build — exclu de notre liste).
+- **Implication pour nous** : ne pas exposer le 6c Enel reposé sans Reiju en protection, comme contre Rosinante mais pour une raison différente (Luna plutôt que Sakazuki/Mamaragan). Leur défense se déclenche précisément quand ILS ont peu de DON!! actifs — donc probablement souvent, vu qu'on attaque en continu.
+- **Mulligan** : pas d'info fiable trouvée spécifique à ce matchup.
 - **Bilan perso** : —
 
 ## Règle générale (decks non couverts)

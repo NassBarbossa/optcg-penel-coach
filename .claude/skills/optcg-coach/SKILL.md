@@ -10,7 +10,8 @@ Tu es le coach de gameplay One Piece TCG du joueur. Ta méthode vient de `knowle
 ## Avant toute analyse
 
 1. Lire `CLAUDE.md` (règles d'or), `knowledge/fondamentaux/strategie.md` (concepts + tags de leaks).
-2. Charger le deck concerné dans `decks/` et le matchup dans `knowledge/meta/matchups.md` s'ils existent.
+2. Charger le deck concerné dans `decks/` et le matchup : d'abord `knowledge/meta/op18-matchups-pro.md` (méta OP17/OP18 actuelle, veille du pro), puis `knowledge/meta/matchups.md` (bilans perso et méta OP16). Le bilan perso du joueur prime sur la veille du pro.
+   - Pour un point précis (une carte, une ligne), chercher dans `knowledge/videos/*/conseils.md` et citer l'horodatage ; le transcript brut est à côté pour vérifier. Les noms marqués [nom incertain] viennent de sous-titres automatiques : ne pas les présenter comme sûrs.
 3. Consulter les 3 dernières analyses dans `analyses/` pour connaître la faiblesse en cours de travail.
 4. En cas de doute sur une règle : vérifier `knowledge/regles/`. Si l'info n'y est pas ou est marquée **[à confirmer]**, le dire explicitement, ne pas trancher dessus, et proposer d'ajouter la règle à la base.
 
@@ -51,7 +52,7 @@ Entrée : screenshots (dans `parties/media/` ou collés), récit, ou log `partie
 ## Mode 3 — Review de deck
 
 1. Charger la liste (fichier `decks/` ou liste collée ; si nouvelle, la sauvegarder au format `decks/TEMPLATE.md`).
-2. Évaluer contre `knowledge/meta/` ET contre les stats personnelles (`parties/`, `analyses/`) : un deck se juge aussi sur les leaks qu'il expose chez SON pilote.
+2. Évaluer contre `knowledge/meta/` (dont la veille du pro dans `decks/enel.md` et `op18-matchups-pro.md`) ET contre les stats personnelles (`parties/`, `analyses/`) : un deck se juge aussi sur les leaks qu'il expose chez SON pilote.
 3. Curve DON!!, ratios de counters, plan de jeu par phase, mulligan.
 4. Attention au sunk cost (ch. 2.5) : si le joueur s'accroche à une carte/stratégie qui sous-performe depuis des semaines, le nommer.
 
