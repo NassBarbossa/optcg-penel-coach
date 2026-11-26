@@ -1,0 +1,5 @@
+# Combat logs bruts d OPTCG Sim : pseudos adverses et main adverse en clair, jamais commites
+parties/logs/
+# Base de cartes telechargee (scripts/cartes.py)
+data/cache/
+__pycache__/

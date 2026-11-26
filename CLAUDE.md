@@ -10,7 +10,8 @@ Coach personnel d'analyse de gameplay One Piece TCG (parties jouées sur simulat
 - `knowledge/meta/` — tier list et matchups, alimentés exclusivement par les datas du joueur.
 - `knowledge/videos/` — veille du pro : un dossier par vidéo (transcript brut + `conseils.md` horodaté). Synthèse par matchup dans `knowledge/meta/op18-matchups-pro.md`.
 - `decks/` — un fichier par deck (voir `decks/TEMPLATE.md`).
-- `parties/` — logs de parties (voir `parties/TEMPLATE.md`), screenshots dans `parties/media/`.
+- `parties/` — fiches de parties (voir `parties/TEMPLATE.md`), screenshots dans `parties/media/`. Les fiches `AAAA-MM-JJ-HHMM-*.md` sont générées depuis les combat logs d'OPTCG Sim ; les logs bruts sont dans `parties/logs/` (local, non commité : pseudos et main adverse en clair).
+- `scripts/` — import des combat logs et génération des fiches (`sync_logs.py`, `fiche_partie.py`, `cartes.py`), voir `scripts/README.md`.
 - `analyses/` — rapports d'analyse datés produits par le coach. C'est l'historique de progression.
 
 ## Règles d'or
