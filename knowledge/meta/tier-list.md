@@ -13,6 +13,7 @@ Source : lives ladder d'Aaaaaron des 22 et 25/11/2026 (vidéos fournies par le j
 - Son classement au 22/11 : **Rocks, Gunko, Buggy** en top 3, **Enel 4e ou 5e**, RG Luffy encore haut malgré sa sanction.
 - Decks rencontrés sur 37 parties : RP Luffy (« bizarrement populaire »), Gunko, deck Law/Bonney, Franky (Water Seven), RG Luffy, Rocks, Buggy, Sabo, mirror Enel, Luffy Ace, Water Seven Luffy, Sugar/Doflamingo, Big Mom.
 - Aucun BY Teach, UY Nami, PY Rosinante ni Yamato : la tier list OP16 ci-dessous est historique.
+- « Pas de matchup poison pour Enel en ce moment » ; Buggy dépend surtout du dé ; aucun Spandam en 50 parties OP18 (VOD Twitch du 23/11).
 
 ---
 

@@ -108,15 +108,16 @@ Source : lives d'Aaaaaron des 22 et 25/11/2026 (pas encore validé par les parti
 
 ## Veille du pro : la liste en novembre 2026 (OP17/OP18)
 
-Ce que le joueur pro teste, **à comparer avec la liste que le joueur jouera réellement** (non connue du coach à ce jour) :
+Ce que le joueur pro teste, comparé à la liste du joueur. Ordre réel des lives : V1 (mis en ligne le 22/11, Killingham) → V2 (mis en ligne le 25/11, Holly) → V3 (VOD Twitch du 23/11, **sa liste la plus récente : 3 Law, Reiju, Killingham, ni Holly ni Franky**).
 
-| Carte | Notre liste (OP16) | Ta liste (26/11) | Pro, 22/11 | Pro, 25/11 | Conclusion du pro |
+| Carte | Notre liste (OP16) | Ta liste (26/11) | Pro, V1 | Pro, V2 | Conclusion du pro (V3 = dernière liste) |
 |---|---|---|---|---|---|
-| Killingham (nouvelle) | 0 | 2 | 3 | remplace les Reiju | « Carte de matchup » : très forte contre mirror, Law/Bonney, Big Mom, Sabo ; inutile contre RG/RP Luffy ; neutralisée par Alvida (Buggy) et Gloriosa (Rocks). 3 copies « ça va » |
-| Law [nom incertain] (nouvelle) | 0 | 3 (Trafalgar Law ST10-010) | présent | +1 copie | Sa meilleure carte : prend deux cartes de la main adverse si elle est assez grosse, sinon reste une menace |
-| Senor Pink | 3 | 2 | 3, envisage 1 | réduit | « Un peu brique » ; moins utile quand on a Reiju et Law |
-| Reiju | 4 | 2 | présente | 0 (test) | Coupée pour tester Holly, puis regrettée : manque de Blockers, il préférerait Reiju à Holly. Point faible : Sommers (Gunko) la tue |
-| Holly (dog) | 0 | 0 | 0 | présent | **Rejeté** : inutile s'il n'arrive pas au tour 2, meilleur en premier |
+| Killingham (nouvelle) | 0 | 2 | 3 | remplace les Reiju | Gardé en V3. « Carte de matchup » : très forte contre mirror, Law/Bonney, Big Mom, Sabo ; inutile contre RG/RP Luffy ; neutralisée par Alvida (Buggy) et Gloriosa (Rocks). 3 copies « ça va » |
+| Trafalgar Law ST10-010 (nouvelle) | 0 | 3 | présent | +1 copie | **3 copies en V3**, comme toi. Sa meilleure carte : prend deux cartes de la main adverse si elle est assez grosse, sinon reste une menace. Annulé par Alvida |
+| Franky (4c) | 3 | 0 | ? | « pas nécessaire » | **Absent en V3**, comme chez toi : « il pioche juste une carte, je préfère prendre des cartes ; tant qu'à jouer un Blocker à 5k, je joue Law » |
+| Senor Pink | 3 | 2 | 3, envisage 1 | réduit | « Un peu brique » ; moins utile quand on a Reiju et Law. Mais contre Rocks en V3 : « Pink aurait fait un malheur » |
+| Reiju | 4 | 2 | présente | 0 (test) | **Revenue en V3** : « plutôt bonne, sauf contre Gunko (Sommers la tue) et peut-être Buggy (Alvida la ramène à 5) » |
+| Holly (dog) | 0 | 0 | 0 | présent | **Rejeté, absent en V3** : inutile s'il n'arrive pas au tour 2, meilleur en premier |
 | Varie | 2 | 2 | veut 3 | ? | 3e copie pour Rocks (Gloriosa renvoie Killingham) |
 | Gamma Knife | 3 | 3 | présente | présente | Importante contre Buggy, Rocks, Law/Bonney ; faible contre Gunko et RP Luffy |
 
@@ -128,3 +129,4 @@ Détails et horodatages : `knowledge/videos/*/conseils.md`. Pas de liste complè
 - 2026-11-26 : ajout du mulligan et de la veille du pro (lives Aaaaaron des 22 et 25/11, méta OP17/OP18).
 - 2026-11-26 : liste réelle du joueur intégrée (Law ×3, Killingham ×2, Satori ×3, Reiju ×2, Senor Pink ×2, Divine Departure ×1, sans Franky).
   - Ancienne build OP16 du coach : Ohm 4, Shura 4, Pudding 4, Satori 1, Reiju 4, Franky 3, Senor Pink 3, Enel 4 ; El Thor 4, Kiten 4, Lightning Dragon 4, Mamaragan 4, Varie 2, Divine Departure 2, Gamma Knife 3.
+- 2026-11-26 : veille complétée avec la VOD Twitch du 23/11 (dernière liste du pro : 3 Law, Reiju, Killingham, ni Holly ni Franky ; proche de la liste du joueur).

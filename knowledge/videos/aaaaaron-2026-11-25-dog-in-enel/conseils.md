@@ -1,7 +1,7 @@
-# Aaaaaron, « Can the dog still be good in Enel? Honored ranked grinding! » (live du 25/11/2026)
+# Aaaaaron, « Can the dog still be good in Enel? Honored ranked grinding! » (mis en ligne le 25/11/2026)
 
 > Source : transcript automatique `DYU2eF2LBTI-transcript.txt` (live de 2 h 05, ladder classé sur simulateur, Purple Enel avec Holly). Extraction faite le 2026-11-26.
-> Suite directe du live du 22/11 (`../aaaaaron-2026-11-22-return-of-enel/conseils.md`) : même lexique des sous-titres (dog = Holly, Rage you/Raiju = Reiju, killing ham = Killingham, an L/NL = 6c Enel, Mama Ragon/Bomber Ragn = Mamaragan, Keeton/Kieton = Kiten, Elthor/Althor = El Thor, Tori = Satori, Om = Ohm).
+> Joué avant la VOD Twitch du 23/11 (où il dit « aujourd'hui on n'est pas sur le chien »), donc la date YouTube est une date de mise en ligne. Suite directe du live mis en ligne le 22/11 (`../aaaaaron-2026-11-22-return-of-enel/conseils.md`) : même lexique des sous-titres (dog = Holly, Rage you/Raiju = Reiju, killing ham = Killingham, an L/NL = 6c Enel, Mama Ragon/Bomber Ragn = Mamaragan, Keeton/Kieton = Kiten, Elthor/Althor = El Thor, Tori = Satori, Om = Ohm).
 > Le jour de l'avant-première OP18 [00:32:20]. Il arrête Enel à [01:49:16] pour jouer Rocks : la dernière partie (Rocks contre Sabo) n'est pas comptée.
 
 ## Bilan des parties

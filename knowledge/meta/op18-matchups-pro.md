@@ -1,10 +1,13 @@
 # Méta OP17/OP18 : matchups d'Enel violet (veille du pro, novembre 2026)
 
-> **Source** : deux lives ladder d'Aaaaaron (top 8 mondial avec Purple Enel), fournis par le joueur le 2026-11-26 :
-> - **V1** = live du 22/11/2026, 27 parties (`knowledge/videos/aaaaaron-2026-11-22-return-of-enel/conseils.md`)
-> - **V2** = live du 25/11/2026, 10 parties avec Holly (`knowledge/videos/aaaaaron-2026-11-25-dog-in-enel/conseils.md`)
+> **Source** : trois lives ladder d'Aaaaaron (top 8 mondial avec Purple Enel), fournis par le joueur le 2026-11-26 :
+> - **V1** = YouTube, mis en ligne le 22/11/2026, 27 parties, liste Killingham (`knowledge/videos/aaaaaron-2026-11-22-return-of-enel/conseils.md`)
+> - **V2** = YouTube, mis en ligne le 25/11/2026, 10 parties, liste Holly sans Reiju (`knowledge/videos/aaaaaron-2026-11-25-dog-in-enel/conseils.md`)
+> - **V3** = VOD Twitch du 23/11/2026, 3 parties Enel puis Rocks, **sa liste la plus récente** : 3 Law, Reiju, Killingham, ni Holly ni Franky (`knowledge/videos/aaaaaron-2026-11-23-greatest-enel/conseils.md`)
 >
-> Les horodatages renvoient aux transcripts. Ce fichier **remplace** `op16-matchup-bible.md` pour la méta actuelle : aucun des decks de la bible OP16 (BY Teach, UY Nami, PY Rosinante, Yamato) n'apparaît dans ces 37 parties. La bible reste utile pour les principes généraux d'Enel (DON!! à 6 ou moins, tailles d'attaque, mulligan de base).
+> Les dates YouTube sont des dates de mise en ligne : d'après ce qu'il dit, l'ordre réel des lives est V1 → V2 → V3.
+>
+> Les horodatages renvoient aux transcripts. Ce fichier **remplace** `op16-matchup-bible.md` pour la méta actuelle : aucun des decks de la bible OP16 (BY Teach, UY Nami, PY Rosinante, Yamato) n'apparaît dans ces 40 parties. La bible reste utile pour les principes généraux d'Enel (DON!! à 6 ou moins, tailles d'attaque, mulligan de base).
 > Les noms entre [nom incertain] viennent de sous-titres automatiques. Le bilan perso du joueur prime sur tout ce qui suit dès qu'il existe.
 
 ## Vue d'ensemble
@@ -14,19 +17,21 @@
 | RP Luffy | 4-1 | Très favorable | Rester à 6 DON!! ou moins (Robin) |
 | Mirror Enel | 3-0 | Favorable avec Killingham | Killingham |
 | Deck « Law » / Bonney [nom incertain] | 4-1 | Favorable | Killingham, Gamma Knife sur Bonney |
-| Rocks | 2-0 | Équilibré, « très perdable » contre un bon joueur | Gamma Knife, El Thor, Kiten sur Shiki |
+| Rocks | 2-1 | Équilibré, « très perdable » contre un bon joueur | Retirer Kyo, Stussy et Shiki ; Gamma Knife, El Thor, Kiten |
 | Sugar / Doflamingo | 1-0 | Favorable | Mamaragan sur Trebol (attention : ça les fait ramper) |
 | GP vert-violet [leader incertain] | 1-0 | Favorable | Tuer Sanji Pudding |
 | Franky (Water Seven) | 2-1 | Favorable | Attaquer à 6 (counters à 3k) |
 | Water Seven Luffy | 1-0 | Favorable | Gamma Knife sur Zoro, attaques à 5 et 7 |
-| RG Luffy | 2-1 | Bon, peut-être légèrement défavorable avec le package Water Seven (V2) | Tuer Sanji |
+| RG Luffy | 2-1 | Bon, peut-être légèrement défavorable avec le package Water Seven et Zoro Sa King (V2, V3) | Tuer Sanji, gérer Zoro Sa King |
 | Sabo | 1-1 | Correct, on peut les agresser | Lightning Dragon sur Sabo |
-| Buggy | 1-2 | Facile en premier, dur en second | Tuer Alvida, Gamma Knife |
+| Buggy | 1-4 | **Le dé décide** : facile en premier, environ 40 % en second (V3) | Tuer Alvida, tour de removal complet |
 | Gunko | 2-3 (dont 1 victoire à confirmer) | **Le pire matchup** | Lightning Dragon, 6c Enel au bon tour |
 | Luffy Ace | 0-1 | Volatil | Killingham si Enel meurt le tour suivant |
 | Luffy Zoro/Sanji/Doflamingo/Spandam [leader incertain] | 0-1 | Dur sans Blockers | Reiju |
 
-Méta selon lui au 22/11 : Rocks, Gunko et Buggy en top 3, Enel 4e ou 5e, RG Luffy encore haut [V1 01:26:40]. RP Luffy « bizarrement populaire » au 25/11 [V2 00:01:34].
+Méta selon lui : Rocks, Gunko et Buggy en top 3, Enel 4e ou 5e, RG Luffy encore haut [V1 01:26:40]. RP Luffy « bizarrement populaire » [V2 00:01:34]. Gunko en hausse, aucun Spandam en 50 parties OP18 [V3 02:33:58] [V3 02:34:22].
+
+**« Le bon côté d'Enel en ce moment, c'est qu'il n'y a pas de matchup poison comme d'habitude »** [V3 02:30:47].
 
 ## Règles transverses
 
@@ -49,11 +54,16 @@ Méta selon lui au 22/11 : Rocks, Gunko et Buggy en top 3, Enel 4e ou 5e, RG Luf
 - **On survit moins longtemps qu'on ne le croit** [V1 06:25:31].
 
 ### Buggy
+- **Le dé décide** : « perdre le dé contre Buggy, c'est tomber à environ 40 %, quel que soit le deck » [V3 00:45:21]. Il perd ses trois parties en second (V2, V3 ×2), il la juge « très facile » en premier [V2 01:05:40].
+- En second : mettre de la pression tôt pour qu'ils attaquent ton board [V3 00:19:19], et préparer un tour de removal complet (Gamma Knife ×2-3, Mamaragan, El Thor, Ohm −1000 sur Alvida) [V3 00:21:37] [V3 00:22:35].
+- Alvida annule Law [V3 00:25:45] et Reiju, qui retombe à 5 [V3 00:00:24].
 - Tuer Alvida en priorité (−2000 sur Enel, annule Killingham et Holly) [V1 04:34:38] [V2 00:58:00]. Ne pas trop contrer face à Alvida [V1 04:33:26].
 - Gamma Knife pour les corps qui arrivent ; Mr. 3 compte plus que Mohji et Cabaji [V1 04:30:20] [V1 04:31:17].
 - El Thor d'abord pour forcer la défausse [V1 04:59:40]. Si on ne peut pas tuer ce tour-ci, nettoyer le board [V1 04:42:17].
 
 ### Rocks
+- **Côté Rocks, leurs réponses à Enel** : Stussy gèle les 6c Enel (deux Stussy = deux Enel gelés), Gloriosa renvoie Reiju au fond du deck, Kyo protège Newgate de Gamma Knife et Mamaragan [V3 01:36:19] [V3 01:43:42] [V3 01:44:10]. **Cibles prioritaires : Kyo, Stussy, Shiki.**
+- Ne pas vider sa main de corps à force de removals ; la partie tourne dès que le 6c Enel arrive [V3 00:33:09] [V3 00:39:43]. Law sur Kyo tôt prend de bonnes cartes [V3 00:29:34]. Senor Pink « aurait fait un malheur » [V3 00:35:49].
 - Gamma Knife et El Thor indispensables ; Kiten contre Shiki, ne jamais laisser Shiki en vie [V1 04:56:45] [V1 03:05:06] [V1 04:09:58].
 - Killingham gèle Linlin et Stussy [nom incertain], puis le tour sert à tuer Shiki ; alternative Reiju (Gloriosa ne peut pas la cibler) puis El Thor sur Gloriosa [V1 04:09:10] [V1 04:09:26].
 - Attaquer la vie d'abord, puis 5 dans 4 [V1 04:06:20]. Compter leurs counters : sans filtre, 5 cartes de counter au maximum en main [V1 04:18:18].
@@ -73,6 +83,7 @@ Méta selon lui au 22/11 : Rocks, Gunko et Buggy en top 3, Enel 4e ou 5e, RG Luf
 - Tuer Sanji, Franky est presque sans texte [V1 05:16:00]. Ne pas bloquer avec Reiju si Zoro peut être buffé et entrer en Rush [V1 05:17:46].
 - Luna ne repose pas Reiju à 9 de coût [V1 05:29:10].
 - Sans Bonney et avec le package Water Seven, plus de cibles à retirer : légèrement plus dur qu'avant [V2 00:11:58].
+- **Zoro Sa King** (nouveau) est la carte la plus pénible pour Enel : « je déteste affronter le nouveau RG avec Enel » [V3 00:02:39] [V3 00:46:16].
 - Second Enel plutôt que tuer le 10-drop a payé ; attaquer Luffy à 16 force trois cartes [V2 00:06:21] [V2 00:11:44].
 
 ### Deck « Law » / Bonney
