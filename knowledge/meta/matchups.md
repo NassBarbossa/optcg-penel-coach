@@ -105,6 +105,16 @@ Source : 1 partie du joueur, le 27/11 à 12:04 (L, `analyses/2026-11-27-enel-vs-
 - **Gloriosa** : quand il devrait prendre un dégât, il peut la défausser à la place.
 - **Mamaragan** ne met à terre que les persos à 5000 ou moins : ses persos à 6000 n'y sont pas sensibles.
 
+## Enel vs Franky (OP18-021), Water Seven
+
+Source : 1 partie du joueur, le 27/11 à 12:19 (L, `analyses/2026-11-27-enel-vs-franky-1219.md`), et la veille du pro (`op18-matchups-pro.md`). Textes tirés de `data/cache/cartes.json`.
+
+- **Leader** : les Stages dans sa main ont un Counter de +3000. D'où le conseil du pro : attaquer à 6000 au moins.
+- **Shark Submerge 3 [OP18-076]**, un Stage. Pendant mon attaque, il peut le mettre à terre : son Leader et 2 de ses persos gagnent +1000 pendant tout le tour. La première attaque sur un de ses persos couchés doit avoir 1000 de marge, ou venir après une attaque du Leader qui l'a forcé à mettre le Stage à terre.
+- **Zoro & Sogeking [OP18-027]** et **Luffy [OP18-118]** : On Play, un de mes persos de coût 6 ou moins ne peut pas être mis à terre, donc ne peut pas attaquer. Ils visent le 6c Enel, bloqué 3 fois sur 3 le 27/11.
+- **Nico Robin [OP18-031]** : un de ses persos que je retire par effet peut être sauvé en mettant Robin à terre. Prévoir un 2e retrait.
+- **Trafalgar Law [OP09-069]**, 2000 : il tue nos 1-drops à chaque tour. Cible de clear prioritaire quand il est couché.
+
 ## Règle générale (decks non couverts)
 
 Appliquer le plan Enel normal : retirer les menaces principales (Gamma Knife, Kiten+Mamaragan…), choisir wide vs tall (6c Enel) selon le temps disponible dans le matchup. Tout l'acquis OP15 reste valable.
