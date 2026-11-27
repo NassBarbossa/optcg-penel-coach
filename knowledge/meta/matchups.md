@@ -94,6 +94,17 @@ Lectures utiles :
 - **Mulligan** : pas d'info fiable trouvée spécifique à ce matchup.
 - **Bilan perso** : —
 
+## Enel vs Nico Robin (EB05-010), Wisdom
+
+Source : 1 partie du joueur, le 27/11 à 12:04 (L, `analyses/2026-11-27-enel-vs-nico-robin-1204.md`). Textes tirés de `data/cache/cartes.json`.
+
+- **Leader** (5000, Blocker). [Once Per Turn] Quand un de ses persos <Wisdom> sans [Blocker] est mis K.O., il ajoute la carte du dessus du deck à ses vies. [Activate: Main] [Once Per Turn] Il remet debout un de ses persos <Wisdom> à 6000 ou moins : un de ses persos attaque deux fois par tour.
+- **Board** : beaucoup de persos à 6000, Robin [EB05-016], Gloriosa [EB05-052] et Nami [EB05-055], posés via Lilith [OP13-113] (2000, qui tue nos 1-drops) et via ses triggers.
+- **Triggers** : You'll Frighten Me... [OP14-118] pose un perso à 6000 ; Nami se pose quand il a 2 vies ou moins ; le trigger de Robin met à terre un de nos persos de coût 6 ou moins.
+- **Face ou clear** : sa vie gagnée sur KO ne vaut qu'une fois par tour. Le premier KO la lui rend, les suivants sont gratuits : quand on clear, on enchaîne plusieurs KO le même tour. Chaque attaque face lui offre une carte et souvent un perso à 6000.
+- **Gloriosa** : quand il devrait prendre un dégât, il peut la défausser à la place.
+- **Mamaragan** ne met à terre que les persos à 5000 ou moins : ses persos à 6000 n'y sont pas sensibles.
+
 ## Règle générale (decks non couverts)
 
 Appliquer le plan Enel normal : retirer les menaces principales (Gamma Knife, Kiten+Mamaragan…), choisir wide vs tall (6c Enel) selon le temps disponible dans le matchup. Tout l'acquis OP15 reste valable.
