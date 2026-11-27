@@ -26,7 +26,7 @@ PSEUDO = os.environ.get("OPTCG_PSEUDO", "Barbossa")
 ID = r"[A-Z0-9]+-\d{3}"
 RE_LINK = re.compile(r'<mark><link="([^"]+)">[^<]*</link></mark>')
 RE_TAG = re.compile(r"</?[a-z]+[^>]*>")
-RE_JOUEUR = re.compile(r"^\[([^\]]*#\d+|You|Opponent)\] (.*)$")
+RE_JOUEUR = re.compile(r"^\[([^\]]+)\] (.*)$")  # tout pseudo, avec ou sans #numéro (invités OP Bounty)
 RE_CARTE = re.compile(rf"(.+?) \[({ID})\]")
 SNAP = ("Hand:", "Board:", "Trash:", "Life:")
 
