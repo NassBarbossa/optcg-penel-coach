@@ -115,6 +115,15 @@ Source : 1 partie du joueur, le 27/11 à 12:19 (L, `analyses/2026-11-27-enel-vs-
 - **Nico Robin [OP18-031]** : un de ses persos que je retire par effet peut être sauvé en mettant Robin à terre. Prévoir un 2e retrait.
 - **Trafalgar Law [OP09-069]**, 2000 : il tue nos 1-drops à chaque tour. Cible de clear prioritaire quand il est couché.
 
+## Enel vs Sugar (OP10-003), Donquixote
+
+Source : 1 partie du joueur, le 27/11 à 17:16 (L, `analyses/2026-11-27-enel-vs-sugar-1716.md`), et la veille du pro (`op18-matchups-pro.md`). Textes tirés de `data/cache/cartes.json`.
+
+- **Trebol [OP18-071]** : pendant mon tour, Blocker et +2000, donc **8000**. Une fois par tour, il annule le retrait par effet d'un de ses persos Donquixote avec DON!! −1. Une mise à terre n'est pas un retrait.
+- **La réponse** est Mamaragan (5000 ou moins), mais seulement après −3000 : Gamma Knife, Divine Departure ou 3 Kiten. Garder un de ces malus pour Trebol. El Thor seul ne l'atteint jamais (3000 ou moins).
+- **Doflamingo [OP10-071]**, 9000 : pendant mon attaque, il gagne un DON!! actif. Quand il est couché, c'est une cible de clear en combat (le 6c Enel à 10 000) : Trebol ne le protège que des effets.
+- **Sugar** gagne un DON!! actif chaque fois qu'il joue un événement pendant mon tour. Plusieurs attaques à 5000 lui donnent des counters et du DON!! : attaquer à 6000 au moins (conseil du pro).
+
 ## Règle générale (decks non couverts)
 
 Appliquer le plan Enel normal : retirer les menaces principales (Gamma Knife, Kiten+Mamaragan…), choisir wide vs tall (6c Enel) selon le temps disponible dans le matchup. Tout l'acquis OP15 reste valable.
